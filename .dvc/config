@@ -1,0 +1,12 @@
+[core]
+    remote = dcv_demo_xl
+['remote "s3_remote"']
+    url = s3://dvcdemoxl2
+['remote "s3_xl2"']
+    url = s3://dvcdemoxl
+['remote "g_drive://my"']
+    url = ../Drive/dvc_ex
+['remote "xl_remote"']
+    url = https://drive.google.com/drive/u/0/folders/1mWJ-ueGkzYrA9Egq2hbV_XI3uwfjW2D9
+['remote "dcv_demo_xl"']
+    url = gdrive://1mWJ-ueGkzYrA9Egq2hbV_XI3uwfjW2D9
